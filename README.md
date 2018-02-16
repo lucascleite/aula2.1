@@ -1,5 +1,7 @@
 # aula2.1
-Aula do dia 16/02
+# Aula do dia 16/02
+
 Cleo Pires<br>
-Bruna Marquezine<br>
-Paul Walker
+Camila Queiroz<br>
+Paul Walker<br>
+Vin Diesel
